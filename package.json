@@ -1,0 +1,17 @@
+{
+  "name": "do-stuff-on-csv",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "nodemon --config nodemon.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^5.5.0",
+    "fs-extra": "^9.1.0",
+    "nodemon": "^2.0.7"
+  }
+}

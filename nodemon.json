@@ -1,0 +1,8 @@
+{
+  "watch": ["./"],
+  "ignore": ["/_output/*", "/node_modules"],
+  "ext": "js, csv",
+  "execMap": {
+    "js": "node src/main.js"
+  }
+}
